@@ -1,11 +1,11 @@
-# Capslogue
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/status-private-black?style=flat-square" />
 <img src="https://img.shields.io/badge/python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-15-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/license-proprietary-red?style=flat-square" />
+
+# Capslogue
 
 **Contextual Application Security Platform**
 
